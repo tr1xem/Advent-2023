@@ -3,13 +3,8 @@
 #include <string>
 int main()
 {
-	// char name[] = "Saumya";
     std::ifstream inf{"main2.txt"};
 
-	// for (int i = 0; i < 6; i++)
-	// {
-	// 	std::cout << name[i] << std::endl;
-	// }
     int final = 0;
 
     // std::string name{};
